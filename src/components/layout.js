@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Delog &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://w3layouts.com">W3Layouts</a></p>
+        <p>&copy; {new Date().getFullYear()} ©Derechos Reservados &bull; Ing Victor Ml. Nuñez <span role="img" aria-label="love"></span> Río Frío <a href="https://w3layouts.com"> Sarapiquí, Heredia, CR</a></p>
       </footer>
     </div>
   )
